@@ -1,0 +1,6 @@
+{
+  "name": "ClinikBuddy",
+  "description": "Localized health passport, offline clinical triage assistant, and pediatric milestone tracker for community health workers and caregivers.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
